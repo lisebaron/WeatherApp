@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Ma météo</string>
+    <string name="currentweathericon">currentWeatherIcon</string>
+    <string name="hourlyforcast">hourlyForcast</string>
+</resources>
